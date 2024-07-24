@@ -1,0 +1,1 @@
+Update user without auth response: {'success': False, 'message': 'You should be authorised'}

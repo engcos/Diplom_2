@@ -1,0 +1,3 @@
+Login user response: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2YTE1MmQ1OWVkMjgwMDAxYjQ3YTI3ZiIsImlhdCI6MTcyMTg0ODUzMywiZXhwIjoxNzIxODQ5NzMzfQ.qy99t4hf8i-5DV3dAP9mIsx7xWpWScKySg3_87aNsEw', 'refreshToken': 'ba4191da25f4a232da67b5d303bbff41318395b5135b21fbeba2d017f78eb6bcefc907341bb33b84', 'user': {'email': 'rybatnmeur@example.com', 'name': 'gtejktegti'}}
+Update user response: {'success': True, 'user': {'email': 'cedweylqxy@example.com', 'name': 'hfwagloxbs'}}
+Delete user response: {'success': True, 'message': 'User successfully removed'}

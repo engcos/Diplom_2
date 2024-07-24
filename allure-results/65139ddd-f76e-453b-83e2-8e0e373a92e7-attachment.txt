@@ -1,0 +1,2 @@
+Get user orders response: {'success': False, 'message': 'You should be authorised'}
+Get user orders without auth response: {'success': False, 'message': 'You should be authorised'}

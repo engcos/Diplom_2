@@ -1,0 +1,4 @@
+Login user response: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2YTE1MmQxOWVkMjgwMDAxYjQ3YTI3OCIsImlhdCI6MTcyMTg0ODUyOSwiZXhwIjoxNzIxODQ5NzI5fQ.w7-bY40uxqrk2rJ8HlfALOa20Ot7YWd0fBAiaTby_fU', 'refreshToken': '87f6e85c610008151bdb045a1f981d90796107b7810a12d654bfa425d278919494787c74357cdfba', 'user': {'email': 'cjkdijgwdk@example.com', 'name': 'ojkpzbpync'}}
+Create order response: {'success': False, 'message': 'Ingredient ids must be provided'}
+Order creation without ingredient response: {'success': False, 'message': 'Ingredient ids must be provided'}
+Delete user response: {'success': True, 'message': 'User successfully removed'}

@@ -1,0 +1,24 @@
+Login user response: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2YTE1MmQzOWVkMjgwMDAxYjQ3YTI3YyIsImlhdCI6MTcyMTg0ODUzMSwiZXhwIjoxNzIxODQ5NzMxfQ.T6HBxy27xl9eDX7-lsgtbOBp2l66T2iKGU0oemKpwkY', 'refreshToken': '078eecd9f56a90dd05344854ed0075247da509a63470864f7b42e68a970daad02b668f140c827110', 'user': {'email': 'euzliutrxi@example.com', 'name': 'ojlghlinwd'}}
+Create order response (non-JSON): <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>
+
+Order creation with incorrect hash response (non-JSON): <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>
+
+Delete user response: {'success': True, 'message': 'User successfully removed'}
