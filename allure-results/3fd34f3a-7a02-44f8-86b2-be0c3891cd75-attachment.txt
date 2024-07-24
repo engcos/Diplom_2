@@ -1,0 +1,2 @@
+Create order response: {'success': True, 'name': 'Флюоресцентный бургер', 'order': {'number': 6821}}
+Order creation without authorization response: {'success': True, 'name': 'Флюоресцентный бургер', 'order': {'number': 6821}}

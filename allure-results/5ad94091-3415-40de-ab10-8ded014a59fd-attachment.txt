@@ -1,0 +1,1 @@
+Register user with missing fields response: {'success': False, 'message': 'Email, password and name are required fields'}

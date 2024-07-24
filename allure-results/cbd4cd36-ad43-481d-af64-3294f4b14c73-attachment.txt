@@ -1,0 +1,1 @@
+Response for existing user: {'email': 'mbkdjytgku@example.com', 'password': 'vceaxkugwg', 'name': 'wryjlmetor', 'status_code': 403, 'json': {'success': False, 'message': 'User already exists'}}

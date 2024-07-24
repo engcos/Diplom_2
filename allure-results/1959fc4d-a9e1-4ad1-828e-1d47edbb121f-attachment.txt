@@ -1,0 +1,4 @@
+Login user response: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2YTE1MmQ3OWVkMjgwMDAxYjQ3YTI4MyIsImlhdCI6MTcyMTg0ODUzNSwiZXhwIjoxNzIxODQ5NzM1fQ.7KLUC3kFnUM_vHUD6WPsM2c7IX6VaSBg6IIK04vtjPg', 'refreshToken': 'bceb854b465defbf0570605fb37ea5aac6374f5759cbd0b6570d21e40ca3323c0298cd8be81380b6', 'user': {'email': 'ipdryvabxb@example.com', 'name': 'tlovbpxgyx'}}
+Get user orders response: {'success': True, 'orders': [], 'total': 100553, 'totalToday': 776}
+Get user orders with auth response: {'success': True, 'orders': [], 'total': 100553, 'totalToday': 776}
+Delete user response: {'success': True, 'message': 'User successfully removed'}
